@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9089b2d4-7cb6-4ef2-9d82-56e7a79aa5f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/collection/data/HashSetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/collection/data/EnumSetApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CollectionApp.executor": "Run",
+    "Application.EnumSetApp.executor": "Run",
+    "Application.HashSetApp.executor": "Run",
     "Application.ImmutableApp.executor": "Run",
     "Application.IterableApp.executor": "Run",
     "Application.ListApp.executor": "Run",
@@ -48,7 +50,7 @@
     "last_opened_file_path": "D:/Programming/Belajar/ProgrammerZamanNow/Java/belajar-java-collection"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EnumSetApp">
+  <component name="RunManager" selected="Application.ImmutableSetApp">
     <configuration name="EnumSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.data.EnumSetApp" />
       <module name="belajar-java-collection" />
@@ -75,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.ListApp" />
+    <configuration name="ImmutableSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.data.ImmutableSetApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmer.zaman.now.collection.*" />
+          <option name="PATTERN" value="programmer.zaman.now.collection.data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImmutableSetApp" />
         <item itemvalue="Application.EnumSetApp" />
         <item itemvalue="Application.HashSetApp" />
         <item itemvalue="Application.ImmutableApp" />
         <item itemvalue="Application.MutableApp" />
-        <item itemvalue="Application.ListApp" />
       </list>
     </recent_temporary>
   </component>
