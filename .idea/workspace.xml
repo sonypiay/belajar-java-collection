@@ -48,13 +48,13 @@
     "last_opened_file_path": "D:/Programming/Belajar/ProgrammerZamanNow/Java/belajar-java-collection"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HashSetApp">
-    <configuration name="CollectionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.CollectionApp" />
+  <component name="RunManager" selected="Application.EnumSetApp">
+    <configuration name="EnumSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.data.EnumSetApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programmer.zaman.now.collection.*" />
+          <option name="PATTERN" value="programmer.zaman.now.collection.data.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumSetApp" />
         <item itemvalue="Application.HashSetApp" />
         <item itemvalue="Application.ImmutableApp" />
         <item itemvalue="Application.MutableApp" />
         <item itemvalue="Application.ListApp" />
-        <item itemvalue="Application.CollectionApp" />
       </list>
     </recent_temporary>
   </component>
