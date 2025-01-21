@@ -1,4 +1,6 @@
-package programmer.zaman.now.collection.data;
+package programmer.zaman.now.collection;
+
+import programmer.zaman.now.collection.data.Person;
 
 import java.util.List;
 

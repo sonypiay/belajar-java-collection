@@ -1,4 +1,4 @@
-package programmer.zaman.now.collection.data;
+package programmer.zaman.now.collection;
 
 import java.util.ArrayList;
 import java.util.Collections;
