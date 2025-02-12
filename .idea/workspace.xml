@@ -60,7 +60,7 @@
     "last_opened_file_path": "D:/Programming/Belajar/ProgrammerZamanNow/Java/belajar-java-collection"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IdentityHashMapApp">
+  <component name="RunManager" selected="Application.LinkedHashMapApp">
     <configuration name="DequeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.DequeApp" />
       <module name="belajar-java-collection" />
@@ -100,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.QueueApp" />
+    <configuration name="LinkedHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.LinkedHashMapApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedHashMapApp" />
         <item itemvalue="Application.IdentityHashMapApp" />
         <item itemvalue="Application.WeakHashMapApp" />
         <item itemvalue="Application.HashMapApp" />
         <item itemvalue="Application.DequeApp" />
-        <item itemvalue="Application.QueueApp" />
       </list>
     </recent_temporary>
   </component>
