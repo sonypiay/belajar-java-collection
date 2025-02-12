@@ -39,6 +39,7 @@
     "Application.BinarySearchApp.executor": "Run",
     "Application.CollectionApp.executor": "Run",
     "Application.CollectionsApp.executor": "Run",
+    "Application.CollectionsDefaultMethodApp.executor": "Run",
     "Application.DequeApp.executor": "Run",
     "Application.EnumMapApp.executor": "Run",
     "Application.EnumSetApp.executor": "Run",
@@ -65,7 +66,7 @@
     "last_opened_file_path": "D:/Programming/Belajar/ProgrammerZamanNow/Java/belajar-java-collection"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CollectionsApp">
+  <component name="RunManager" selected="Application.MapDefaultMethodApp">
     <configuration name="BinarySearchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.BinarySearchApp" />
       <module name="belajar-java-collection" />
@@ -92,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.EnumMapApp" />
+    <configuration name="CollectionsDefaultMethodApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.CollectionsDefaultMethodApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.LinkedHashMapApp" />
+    <configuration name="MapDefaultMethodApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.MapDefaultMethodApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapDefaultMethodApp" />
+        <item itemvalue="Application.CollectionsDefaultMethodApp" />
         <item itemvalue="Application.CollectionsApp" />
         <item itemvalue="Application.BinarySearchApp" />
         <item itemvalue="Application.SortingApp" />
-        <item itemvalue="Application.EnumMapApp" />
-        <item itemvalue="Application.LinkedHashMapApp" />
       </list>
     </recent_temporary>
   </component>
