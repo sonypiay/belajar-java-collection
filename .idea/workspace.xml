@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BinarySearchApp.executor": "Run",
     "Application.CollectionApp.executor": "Run",
     "Application.DequeApp.executor": "Run",
     "Application.EnumMapApp.executor": "Run",
@@ -63,7 +64,20 @@
     "last_opened_file_path": "D:/Programming/Belajar/ProgrammerZamanNow/Java/belajar-java-collection"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SortingApp">
+  <component name="RunManager" selected="Application.BinarySearchApp">
+    <configuration name="BinarySearchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.BinarySearchApp" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EnumMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.EnumMapApp" />
       <module name="belajar-java-collection" />
@@ -116,26 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeakHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.collection.WeakHashMapApp" />
-      <module name="belajar-java-collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmer.zaman.now.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchApp" />
         <item itemvalue="Application.SortingApp" />
         <item itemvalue="Application.EnumMapApp" />
         <item itemvalue="Application.LinkedHashMapApp" />
         <item itemvalue="Application.IdentityHashMapApp" />
-        <item itemvalue="Application.WeakHashMapApp" />
       </list>
     </recent_temporary>
   </component>
@@ -156,11 +157,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739389329490</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sorting">
+      <option name="closed" value="true" />
+      <created>1739389671674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739389671674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="enum map" />
-    <option name="LAST_COMMIT_MESSAGE" value="enum map" />
+    <MESSAGE value="sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting" />
   </component>
 </project>
